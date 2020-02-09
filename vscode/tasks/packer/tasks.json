@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Packer Search",
+            "type": "shell",
+            "command": "start-process  'chrome' '{selectedText} site:https://www.packer.io/docs",
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "never"
+            }
+        }
+    ]
+}
+

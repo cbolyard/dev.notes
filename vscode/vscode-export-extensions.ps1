@@ -1,0 +1,1 @@
+code --list-extensions | ForEach-Object { Write-Output "code --install-extension $_" }
