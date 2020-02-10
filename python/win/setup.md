@@ -7,6 +7,8 @@
     1. git
     1. https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
     1. configure ssh https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+    1. https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+    1. https://help.github.com/en/github/authenticating-to-github/working-with-ssh-key-passphrases#auto-launching-ssh-agent-on-git-for-windows
     1. git extension for powershell
     1. https://github.com/dahlbyk/posh-git
     
